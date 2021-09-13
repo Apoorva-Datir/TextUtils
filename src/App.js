@@ -5,7 +5,7 @@ import Alert from "./components/Alert";
 import React, { useState } from "react";
 
 // import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
-
+//This
 function App() {
   const [mode, setMode] = useState("light");
   const [alert, setAlert] = useState(null); //we'll use it as an object.
