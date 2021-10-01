@@ -6,3 +6,5 @@ import App from "./App"; //here we are importing from App.js but in js the exten
 
 // The code below is JSX code(HTML in JavaScript)
 ReactDOM.render(<App />, document.getElementById("root")); //this id "root" is in the index.html file in the public folder
+
+// test comment
